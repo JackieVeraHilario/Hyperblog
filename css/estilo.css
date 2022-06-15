@@ -10,9 +10,9 @@ body
 
 #cabecera
 {
-    background: palevioletred;
+    background:blue;
     box-shadow: 0px 2px 20px 0px black;
-    color: white;
+    color: palevioletred;
     font-weight: bold;
     margin: 0 auto;
     padding: 0.5em;
